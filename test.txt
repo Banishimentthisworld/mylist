@@ -1,4 +1,1 @@
-测试
-第三方第三方
-是范德萨的
-shidhnk
+printf "hello world";
